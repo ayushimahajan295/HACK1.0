@@ -1,9 +1,9 @@
 body {
-    background-image: url('./assets/images/white\ imag.jpg'); 
+    background-image: url('./assets/images/white2.avif'); 
     background-size: cover;
     background-repeat: no-repeat;
     font-family: Arial, sans-serif;
-    color: #333; 
+    color: white; 
     margin: 0;
     padding: 20px; 
 }

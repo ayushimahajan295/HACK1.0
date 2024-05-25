@@ -126,7 +126,7 @@ input[type="submit"]:hover {
 }
 
 .carousel-item::before {
-    content: "वसुधैव कुटुम्बकम्";
+    content: "Biodiversity Conservation";
     position: absolute;
     top: 30%;
     left: 50%;

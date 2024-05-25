@@ -1,11 +1,12 @@
 /* styles.css */
 
 body {
-    background-image: url('./assets/images/white\ imag.jpg'); 
+    background-image: url('./assets/images/white2.avif'); 
     background-size: cover;
     background-position: center;
     font-family: Arial, sans-serif;
-    color: black; 
+    color: white; 
+    filter: brightness(20px);
 }
 
 table {
